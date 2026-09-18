@@ -1,0 +1,16 @@
+:root {
+	/* Pattern Colori definito */
+	--c-primary-btn: #111;
+	--c-secondary-btn: #fff;
+	--c-secondary-btn-border: #ccc;
+	--c-accent: #000;
+	--c-text-accent: #111;
+	--c-text-main: #666;
+	--c-text-sub:  #555;
+	--c-background: #ddd;
+}
+
+body {
+	padding: 0 20px;
+	background-color: #efefef;
+}
